@@ -15,5 +15,5 @@
 homepage: "https://fixel.ai"
 documentation: "https://docs.fixel.ai"
 versions:
-  - sha: 18ba2631d4f91a3aae81f9652c13c99fd992a9be
-    changeNotes: Initial Version
+  - sha: 8434f35d578c4455b5ef5f079baa0121bec1de01
+    changeNotes: Fixel Initial Version
