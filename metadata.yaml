@@ -15,7 +15,7 @@
 homepage: "https://fixel.ai"
 documentation: "https://docs.fixel.ai"
 versions:
-  -sha: 41ad928d0e5c999d53d7d28dfc3ea2a3cc99942f
+  - sha: 41ad928d0e5c999d53d7d28dfc3ea2a3cc99942f
     changesNotes: Add support in multiple Fixel tags
   #older versions
   - sha: 8434f35d578c4455b5ef5f079baa0121bec1de01
